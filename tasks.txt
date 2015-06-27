@@ -1,2 +1,4 @@
 Creating a Simulation on Omnet++ for the P2P architecture.
 Use the simulation and try to build a working implementation for the application.
+Gather data from the simulation and analyse various scenarios for the application.
+Lookup research papers where other models have been implemented using different techniques which might be helpful in our project

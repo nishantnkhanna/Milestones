@@ -1,0 +1,2 @@
+Creating a Simulation on Omnet++ for the P2P architecture.
+Use the simulation and try to build a working implementation for the application.
